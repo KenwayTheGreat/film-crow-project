@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/film-crow-project/static/css/main.6e819422.chunk.css",
+    "main.js": "/film-crow-project/static/js/main.5b12a798.chunk.js",
+    "main.js.map": "/film-crow-project/static/js/main.5b12a798.chunk.js.map",
+    "runtime-main.js": "/film-crow-project/static/js/runtime-main.1e1d5364.js",
+    "runtime-main.js.map": "/film-crow-project/static/js/runtime-main.1e1d5364.js.map",
+    "static/js/2.3f65c9aa.chunk.js": "/film-crow-project/static/js/2.3f65c9aa.chunk.js",
+    "static/js/2.3f65c9aa.chunk.js.map": "/film-crow-project/static/js/2.3f65c9aa.chunk.js.map",
+    "index.html": "/film-crow-project/index.html",
+    "precache-manifest.fddaf38f529186ef2e05a04b3b24f8f4.js": "/film-crow-project/precache-manifest.fddaf38f529186ef2e05a04b3b24f8f4.js",
+    "service-worker.js": "/film-crow-project/service-worker.js",
+    "static/css/main.6e819422.chunk.css.map": "/film-crow-project/static/css/main.6e819422.chunk.css.map",
+    "static/js/2.3f65c9aa.chunk.js.LICENSE.txt": "/film-crow-project/static/js/2.3f65c9aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e1d5364.js",
+    "static/js/2.3f65c9aa.chunk.js",
+    "static/css/main.6e819422.chunk.css",
+    "static/js/main.5b12a798.chunk.js"
+  ]
+}
